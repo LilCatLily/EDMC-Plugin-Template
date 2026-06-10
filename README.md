@@ -1,3 +1,5 @@
+DISCLAIMER: This plugin template was created using the copilot ai
+
 # EDMarketConnector Template Plugin
 
 A comprehensive template plugin project for EDMarketConnector with complete boilerplate code, best practices, and production-ready structure.
